@@ -1,0 +1,15 @@
+name: ml2
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - pandas
+  - scikit-learn
+  - openpyxl
+  - python==3.11.9
+  - seaborn
+  - pip
+  - matplotlib
+  - numpy
+  - jupyterlab
+prefix: /home/mikhail/miniconda3/envs/ml2
